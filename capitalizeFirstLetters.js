@@ -21,4 +21,4 @@ assert.strictEqual(capitalizeFirstLetters(""), "");
 // Check that it works for an several string
 assert.strictEqual(capitalizeFirstLetters("several words"), "Several Words");
 
-//add comments
+//add comments to main
